@@ -1,0 +1,146 @@
+.body {
+        margin: 0;
+        padding: 0;
+        padding-top: 0px;
+        text-align:center;
+    }
+    
+    p {
+        white-space: pre-line;
+    }
+
+    .nav {
+        font-family:Raleway, Arial, Helvetica, sans-serif;
+        font-size:14px; 
+        letter-spacing: 2px;
+        word-spacing: 7px; 
+        float: right;
+        text-align: left;
+        border: 0px; 
+        position: relative; 
+        bottom: 20px; 
+        left: -50px;
+    }
+
+
+    .photo {
+        float: left;
+        position: relative; 
+        top: 70px; 
+        left: 90px; 
+    }
+
+    .img {
+        border-radius: 50%;
+      }
+
+    .who {
+        float: right;
+        width: 550px;
+        text-align: center;
+        border: 0px;
+        padding: 20px;
+        font-family:Raleway, Arial, Helvetica, sans-serif; 
+        font-size:15px; 
+        position: relative; 
+        top: 40px; 
+        right: 120px;
+        color: #393939; 
+        line-height: 25px; 
+        }
+
+    .linkedin {
+        float: right;
+        letter-spacing: 7px;
+        width: 450px;
+        text-align: center;
+        border: 0px;
+        padding: 0px;
+        position: relative; 
+        top: 270px; 
+        right: 190px; 
+        opacity: 0.7; 
+        }
+
+    .facts {
+        float: right;
+        width: 250px;
+        text-align: left;
+        border: 0px;
+        padding: 20px;
+        position: relative; 
+        top: 50px; 
+        left: 40px;
+        right: 190px;
+        font-family:Raleway, Arial, Helvetica, sans-serif; 
+    font-size:13px; 
+    border: 1px; 
+    color: gray; 
+    line-height: 20px; 
+    }
+
+    .skill {
+        float: right;
+        width: 250px;
+        text-align: left;
+        border: 0px;
+        padding: 20px;
+        position: relative; 
+        top: -155px; 
+        left: -140px;
+        font-family:Raleway, Arial, Helvetica, sans-serif; 
+    font-size:13px; 
+    color: gray; 
+    line-height: 20px; 
+    }
+
+.h1 {
+    color:black; 
+}
+.h1 {
+    font-family:Raleway, Arial, Helvetica, sans-serif;
+    font-size:30px; 
+    letter-spacing: 3px;
+    float: right;
+    width: 300px;
+    text-align: left;
+    border: 0px;
+    padding: 10px;
+    position: relative; 
+    top: 30px; 
+    left: -110px;
+}
+
+.h2 {
+    font-family:Raleway, Arial, Helvetica, sans-serif;
+    font-size:30px; 
+    letter-spacing: 3px;
+    float: right;
+    text-align: left;
+    border: 0px;
+    position: relative;
+    top: 90px; 
+    left: 140px;
+    color: #313131; 
+}
+
+p {
+    white-space: pre-line;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
